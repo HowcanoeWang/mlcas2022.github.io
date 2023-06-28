@@ -1,2 +1,2 @@
-# mlcas2018.github.io
-redirect `2018.mlcas.site` to `https://sites.google.com/site/afitamlcas2018/home?authuser=0`
+# mlcas2022.github.io
+redirect `2022.mlcas.site` to `mlcas2022.github.io`
